@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Rohan",
+      "age": 25,
+      "gender": "male",
+      "number": 8217677461,
+      "image": "https://www.bing.com/th?id=OIP.HPRStoSGKM5YueqQkRyIrgHaLH&w=150&h=225&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2",
+      "department": "Operations",
+      "salary": 30000
+    },
+    {
+      "id": 2,
+      "name": "Akash",
+      "age": 23,
+      "gender": "male",
+      "number": 8217677461,
+      "image": "https://www.bing.com/th?id=OIP.HPRStoSGKM5YueqQkRyIrgHaLH&w=150&h=225&c=8&rs=1&qlt=90&o=6&dpr=1.25&pid=3.1&rm=2",
+      "department": "Operations",
+      "salary": 30000
+    },
+    {
+      "name": "Nachiket R Lele",
+      "age": "21",
+      "gender": "male",
+      "number": "232133231",
+      "image": "data:image/jpeg;base64,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",
+      "department": "developer",
+      "salary": "123231121",
+      "id": 3
+    }
+  ]
+}
